@@ -16,4 +16,10 @@
 		<isbn>0-596-00143-6</isbn>
 		<publisher>O'Reilly</publisher>
 	</c:Book>
+	<c:Book>
+		<title>More Understanding GIT</title>
+		<date>2001</date>
+		<isbn>0-596-00143-6</isbn>
+		<publisher>O'Really</publisher>
+	</c:Book>
 </c:Catalogue>
