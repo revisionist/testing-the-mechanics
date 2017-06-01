@@ -24,4 +24,7 @@
   <Item discount="promotion" price="100">
     <description>Some item A</description>
   </Item>
+  <Item discount="promotion" price="200">
+    <description>Some item B</description>
+  </Item>
 </Invoice>
